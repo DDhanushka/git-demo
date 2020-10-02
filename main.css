@@ -1,13 +1,13 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
 }
 
 h1 {
-	color: steelblue;
-	border-bottom: 2px solid gray;
+  color: steelblue;
+  border-bottom: 2px solid gray;
 }
 
 body {
-	color: #ccc;
+  color: #ccc;
 }
